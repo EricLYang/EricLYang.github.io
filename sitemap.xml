@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://ericlyang.github.io/project/robot-inspection-net/</loc>
+      <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://ericlyang.github.io/publication/iros2017/</loc>
       <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     </url>
@@ -68,15 +77,6 @@
     
     <url>
     
-      <loc>https://ericlyang.github.io/project/deepinspection/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://ericlyang.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -95,7 +95,16 @@
     
     <url>
     
-      <loc>https://ericlyang.github.io/project/roboticinspection/</loc>
+      <loc>https://ericlyang.github.io/roboticinspection/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ericlyang.github.io/project/deepinspection/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -124,6 +133,15 @@
     
       <loc>https://ericlyang.github.io/publication/robotpath3dplanning/</loc>
       <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ericlyang.github.io/project/parking-garage-here/</loc>
+      <lastmod>2015-12-30T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -185,6 +203,26 @@
     
     <url>
     
+      <loc>https://ericlyang.github.io/tags/3d-lidar/</loc>
+      <lastmod>2015-12-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ericlyang.github.io/tags/3d-slam/</loc>
+      <lastmod>2015-12-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://ericlyang.github.io/tags/autonomous-robot/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -196,6 +234,26 @@
     <url>
     
       <loc>https://ericlyang.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ericlyang.github.io/tags/computer-vision/</loc>
+      <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ericlyang.github.io/tags/deep-learning/</loc>
+      <lastmod>2018-02-25T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -254,8 +312,28 @@
     
     <url>
     
+      <loc>https://ericlyang.github.io/tags/inspection/</loc>
+      <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ericlyang.github.io/tags/mapping/</loc>
+      <lastmod>2015-12-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://ericlyang.github.io/project/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-02-25T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -265,7 +343,7 @@
     <url>
     
       <loc>https://ericlyang.github.io/tags/robotics/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-02-25T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
